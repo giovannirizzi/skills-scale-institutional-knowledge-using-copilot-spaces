@@ -15,7 +15,7 @@ This Copilot Space centralizes OctoAcme's project management knowledge so that i
 OctoAcme follows a stage-based, customer-first project lifecycle:
 
 - **Principles**: customer-first, iterative delivery, clear ownership, data-informed decisions, and psychological safety.
-- **Core roles**: Project Manager (PM), Product Manager (PdM), Developers, QA/Testing, and Stakeholders.
+- **Core roles**: Project Manager (PM), Product Manager (PdM), Developers, Designer, QA/Test Engineer, Data Analyst, Security/Compliance Stakeholder, Support/Customer Success, and Executive Sponsor.
 - **Lifecycle stages**: Initiation → Planning → Execution → Release → Close & Retrospective.
 - **Key artifacts**: Project Charter, Roadmap and Release Plan, Sprint Backlog, Acceptance Criteria & Definition of Done, Risk Register, and Retrospective notes.
 - **Communication cadence**: weekly PM + PdM sync, twice-weekly standups, monthly stakeholder updates, and ad-hoc escalations.
@@ -31,7 +31,8 @@ OctoAcme follows a stage-based, customer-first project lifecycle:
 | [Risks & Communication](octoacme-risks-and-communication.md) | Risk identification, the Risk Register, and communication protocols for escalations and stakeholder updates. |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | The process for deploying, verifying, and announcing a release. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | How teams capture learnings, define action items, and close out a project. |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed descriptions of every role involved in OctoAcme projects. |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed descriptions of every role involved in OctoAcme projects, including Designer, QA/Test Engineer, Data Analyst, Security/Compliance Stakeholder, Support/Customer Success, and Executive Sponsor. |
+| [New Team Member Onboarding Checklist](octoacme-onboarding-checklist.md) | Role-specific onboarding checklists and a stakeholder progress update template for all project participants. |
 
 ## Contributing
 
