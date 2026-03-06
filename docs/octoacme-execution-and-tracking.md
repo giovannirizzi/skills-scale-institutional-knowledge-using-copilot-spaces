@@ -20,8 +20,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Security scanning in CI (Security/Compliance Stakeholder signs off on security-sensitive changes)
+- Manual QA for feature acceptance when needed (QA/Test Engineer leads sign-off)
+- Designer reviews implemented UI for fidelity before QA sign-off on UI features
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -31,10 +32,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 3: Sponsor-level escalation (Executive Sponsor) for business-impacting issues
+- Security incidents: follow the security incident runbook and notify Security/Compliance Stakeholder immediately
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA/Test Engineer has reviewed and signed off on completed features
+- [ ] Designer has verified UI fidelity for completed UI features
+- [ ] Data Analyst confirms analytics instrumentation is in place for measurable features

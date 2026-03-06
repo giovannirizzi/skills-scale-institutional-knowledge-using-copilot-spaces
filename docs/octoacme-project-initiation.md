@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate — consider Developers, Designers, QA/Test Engineers, Data Analysts, Security/Compliance, Support/Customer Success, and Executive Sponsor as needed)
 
 ## Project One-pager Template
 - Project name:
@@ -27,11 +27,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (e.g., Product Manager, Project Manager, Developers, Designer, QA/Test Engineer, Data Analyst, Security/Compliance Stakeholder, Support/Customer Success, Executive Sponsor):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Sponsor / Stakeholder alignment (email or meeting) — include Executive Sponsor, Security/Compliance, and Support leads as appropriate
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

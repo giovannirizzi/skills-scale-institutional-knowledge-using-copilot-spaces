@@ -14,6 +14,7 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Include cross-functional participants as appropriate (Designers, QA/Test Engineers, Data Analysts, Support/Customer Success, Security/Compliance Stakeholders)
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
